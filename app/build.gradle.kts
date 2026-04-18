@@ -195,7 +195,7 @@ dependencies {
     // Protocol Buffers and Netty
     implementation("com.google.protobuf:protobuf-java:3.25.5")
     implementation("commons-io:commons-io:2.14.0")
-    implementation("io.netty:netty-codec-http2:4.1.124.Final")
+    implementation("io.netty:netty-codec-http2:4.1.132.Final")
     implementation("io.netty:netty-handler:4.1.118.Final")
     implementation("org.bouncycastle:bcprov-jdk18on:1.78")
     implementation("io.netty:netty-common:4.1.118.Final")
