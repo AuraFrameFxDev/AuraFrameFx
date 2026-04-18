@@ -197,7 +197,7 @@ dependencies {
     implementation("commons-io:commons-io:2.14.0")
     implementation("io.netty:netty-codec-http2:4.1.124.Final")
     implementation("io.netty:netty-handler:4.1.118.Final")
-    implementation("org.bouncycastle:bcprov-jdk18on:1.78")
+    implementation("org.bouncycastle:bcprov-jdk18on:1.84")
     implementation("io.netty:netty-common:4.1.118.Final")
     implementation("org.apache.commons:commons-compress:1.26.0")
     implementation("com.google.guava:guava:32.1.3-android")
